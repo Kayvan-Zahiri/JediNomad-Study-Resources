@@ -53,6 +53,19 @@ Modern applicant tracking systems (ATS) filter resumes before they reach human r
 
 **Ideal Use Case:** Fine-tuning an existing resume for specific job applications
 
+
+### [ResumeAI](https://withresumeai.com/)
+
+**Best for:** Free ATS checking plus employer ATS landscape data
+
+**Key Features:**
+- Free ATS resume checker (3 checks/day anonymous, 10/day with a free account)
+- Open State of ATS 2026 dataset (738 large employers, 704 portal-verified)
+- Workday share reported at 37.9% among verified portals
+- Built for job seekers optimizing resumes for real ATS systems
+
+**Ideal Use Case:** Checking ATS fit without a paid scan quota, and understanding which ATS employers actually use
+
 ---
 
 ### [Kickresume](https://www.kickresume.com)
